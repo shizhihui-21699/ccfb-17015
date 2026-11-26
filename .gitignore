@@ -16,3 +16,11 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# build output
+build/
+.gradle/
+*.log
+.idea/
+*.iml
+out/
